@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/logo_full.png" alt="eSIM Dafter logo" width="280" />
+<img src="screenshots/logo_full.png" alt="eSIM Dafter logo" width="280" />
 
 # eSIM Dafter
 
@@ -270,26 +270,60 @@ Ideas that would take the project further:
 
 ---
 
-## 8. Screenshots
+## 8. App Showcase
 
-Screenshots from a real device are coming soon.
-
-<!--
-  To add screenshots: put the PNG files in docs/screenshots/ (a folder outside
-  the Flutter assets, so they never end up inside the APK), then uncomment
-  and adjust this table. Use %20 in place of spaces in file names.
+A preview of eSIM Dafter's Instagram carousel and key app features.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/login.png" width="200" alt="Login"/><br/><sub><b>Login</b></sub></td>
-    <td align="center"><img src="docs/screenshots/home.png" width="200" alt="Home dashboard"/><br/><sub><b>Home dashboard</b></sub></td>
-    <td align="center"><img src="docs/screenshots/new-sale.png" width="200" alt="New sale"/><br/><sub><b>New Sale flow</b></sub></td>
-    <td align="center"><img src="docs/screenshots/customer-details.png" width="200" alt="Customer details"/><br/><sub><b>Customer details</b></sub></td>
+    <td align="center">
+      <a href="screenshots/slide-01.png">
+        <img src="screenshots/slide-01.png" width="300" alt="Carousel design 1" />
+      </a><br/><sub>01 · Cover</sub>
+    </td>
+    <td align="center">
+      <a href="screenshots/slide-02.png">
+        <img src="screenshots/slide-02.png" width="300" alt="Carousel design 2" />
+      </a><br/><sub>02 · Ready-Made Companies</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="screenshots/slide-03.png">
+        <img src="screenshots/slide-03.png" width="300" alt="Carousel design 3" />
+      </a><br/><sub>03 · Supplier Balances</sub>
+    </td>
+    <td align="center">
+      <a href="screenshots/slide-04.png">
+        <img src="screenshots/slide-04.png" width="300" alt="Carousel design 4" />
+      </a><br/><sub>04 · Profits</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="screenshots/slide-05.png">
+        <img src="screenshots/slide-05.png" width="300" alt="Carousel design 5" />
+      </a><br/><sub>05 · Customers &amp; Debts</sub>
+    </td>
+    <td align="center">
+      <a href="screenshots/slide-06.png">
+        <img src="screenshots/slide-06.png" width="300" alt="Carousel design 6" />
+      </a><br/><sub>06 · Notifications</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="screenshots/slide-07.png">
+        <img src="screenshots/slide-07.png" width="300" alt="Carousel design 7" />
+      </a><br/><sub>07 · App Features</sub>
+    </td>
+    <td align="center">
+      <a href="screenshots/slide-08.png">
+        <img src="screenshots/slide-08.png" width="300" alt="Carousel design 8" />
+      </a><br/><sub>08 · Get Started</sub>
+    </td>
   </tr>
 </table>
--->
-
-In the meantime, the visual language (colors, typography, spacing, shared widgets) is documented in [`design/DESIGN_SYSTEM.md`](design/DESIGN_SYSTEM.md), and every screen is described in [`design/APP_CONTEXT.md`](design/APP_CONTEXT.md).
 
 ---
 
