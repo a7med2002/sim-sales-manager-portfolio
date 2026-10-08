@@ -278,47 +278,47 @@ A preview of eSIM Dafter's Instagram carousel and key app features.
   <tr>
     <td align="center">
       <a href="screenshots/slide-01.png">
-        <img src="screenshots/slide-01.png" width="300" alt="Carousel design 1" />
+        <img src="screenshots/11.png" width="300" alt="Carousel design 1" />
       </a><br/><sub>01 · Cover</sub>
     </td>
     <td align="center">
       <a href="screenshots/slide-02.png">
-        <img src="screenshots/slide-02.png" width="300" alt="Carousel design 2" />
+        <img src="screenshots/22.png" width="300" alt="Carousel design 2" />
       </a><br/><sub>02 · Ready-Made Companies</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="screenshots/slide-03.png">
-        <img src="screenshots/slide-03.png" width="300" alt="Carousel design 3" />
+        <img src="screenshots/33.png" width="300" alt="Carousel design 3" />
       </a><br/><sub>03 · Supplier Balances</sub>
     </td>
     <td align="center">
       <a href="screenshots/slide-04.png">
-        <img src="screenshots/slide-04.png" width="300" alt="Carousel design 4" />
+        <img src="screenshots/44.png" width="300" alt="Carousel design 4" />
       </a><br/><sub>04 · Profits</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="screenshots/slide-05.png">
-        <img src="screenshots/slide-05.png" width="300" alt="Carousel design 5" />
+        <img src="screenshots/55.png" width="300" alt="Carousel design 5" />
       </a><br/><sub>05 · Customers &amp; Debts</sub>
     </td>
     <td align="center">
       <a href="screenshots/slide-06.png">
-        <img src="screenshots/slide-06.png" width="300" alt="Carousel design 6" />
+        <img src="screenshots/66.png" width="300" alt="Carousel design 6" />
       </a><br/><sub>06 · Notifications</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="screenshots/slide-07.png">
+      <a href="screenshots/77.png">
         <img src="screenshots/slide-07.png" width="300" alt="Carousel design 7" />
       </a><br/><sub>07 · App Features</sub>
     </td>
     <td align="center">
-      <a href="screenshots/slide-08.png">
+      <a href="screenshots/88.png">
         <img src="screenshots/slide-08.png" width="300" alt="Carousel design 8" />
       </a><br/><sub>08 · Get Started</sub>
     </td>
